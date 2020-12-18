@@ -1,0 +1,87 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/303547.jpg");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    background-attachment: fixed;
+    line-height: 2.5em;
+    font-weight: 900;
+    font-family: serif;
+}
+
+.our-content {
+  max-width: 680px;
+  margin: auto;
+  line-height: 2.5em;
+  padding-top: 100px;
+  padding-bottom: 100px
+  font-family: serif;
+}
+
+.navigation {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-top: 0px;
+}
+
+h1 {
+    color: White;
+    text-align: center
+}
+
+h1 a {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+li a {
+    font-size: 25px;
+}
+
+label {
+    color: white;
+}
+
+button:hover{
+    color: white;
+    background-color: blue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 5px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  color: white;
+  background-color: black;
+}
